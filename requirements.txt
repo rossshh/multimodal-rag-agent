@@ -1,0 +1,6 @@
+streamlit
+pymupdf
+chromadb
+ollama
+pillow
+python-dotenv
